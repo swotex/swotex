@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![njegat's 42 stats](https://badge.mediaplus.ma/honeytones/njegat?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 <!--
 **swotex/swotex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
