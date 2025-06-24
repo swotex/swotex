@@ -1,8 +1,8 @@
 ## Github stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swotex&show_icons=true&count_private=true&cache=10&show=reviews&theme=onedark" height="250"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swotex&layout=compact&theme=onedark" height="250"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=swotex&show_icons=true&count_private=true&cache=10&show=reviews&theme=onedark" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swotex&layout=compact&theme=onedark" height="200"/>
 </p>
 
 ## 42 school profile
