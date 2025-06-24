@@ -6,7 +6,9 @@
 </p>
 
 ## 42 school profile
-[![njegat's 42 stats](https://badge.mediaplus.ma/honeytones/njegat?1337Badge=off&UM6P=off)]()
+<img src="https://badge.mediaplus.ma/honeytones/njegat?1337Badge=off&UM6P=off" width="500"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=swotex&repo=42cursus&theme=gruvbox" width="500"/>
+
 
 <!--
 **swotex/swotex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
